@@ -1,0 +1,47 @@
+【VRoid Stable Ver】 Skin colors semi-realistic body texture set
+Obtained at https://luk4.booth.pm/
+
+
+All textures are for the Body Suit / Body base
+
+FILE TYPES: .png and .vroidcustomitem
+
+
+HOW TO IMPORT:
+*PNG
+   - For Body: Open your VRoid model, go to the Body tab, then go to Custom, click on Create New, click on "Edit Texture",
+then import any .png texture from the PNG textures folder on the layer.
+(Main screen>Open>"Select VRoid file">Go to "Body">Go to Custom>*Create New*>*Edit Texture*>Right click on layer>Import>
+Close>Save as new item)
+
+   - For Body Suit: Open your VRoid model, go to the Outfit tab, then to the Inner Top section, click on Create New,
+select Body Suit, click on "Edit Texture", then import any .png texture from the PNG textures folder on the layer.
+(Main screen>Open>"Select VRoid file">Go to "Outfit">Go to Inner Top>*Create*>*Select Body Suit*>*Edit Texture*>
+Right click on layer>Import>Close>Save as new item)
+
+
+*vroidcustomitem
+   - Open your VRoid model, go to the Body tab, then go to Custom, click on "Import" and finally import any item from the
+Custom items folder.
+(Main screen>Open>"Select VRoid file">Go to "Body">Go to Custom>*Import*>Select file)
+
+
+
+*TERMS AND INFO*
+Commercial use available.
+You can modify this file however you want as long as you follow Pixiv and VRoid Studio's terms of use.
+Do not redistribute.
+As I only sell digital items, there are no returns nor refunds.
+If you have any doubt or problem with the files, please contact me.
+
+You can use my assets on commissions as long as you only use one per model and you credit me as the creator of the item
+you are using.
+
+Credits are appreciated but not required, but don't claim this as yours
+https://luk4-info.carrd.co/
+
+
+
+These are modified versions of the female Beta body skin textures. They're converted to fit the stable version.
+Huge thanks to KitsuneKaitoSai for providing the original textures on BOOTH!
+https://kaitosai.booth.pm/items/3894230

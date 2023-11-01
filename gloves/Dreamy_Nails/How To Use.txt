@@ -1,0 +1,14 @@
+Yulan Designs - Dreamy Nails
+
+Made in stable version VRoidStudio 1.6.0.
+
+How to use:
+ 
+VRoid → 
+Body Editor → 
+Custom Tab → 
+Select your custom body texture or select "+" for new → 
+Edit Texture → 
+Load Image as New Layer on top of default body design → 
+Select file/texture → 
+Open
