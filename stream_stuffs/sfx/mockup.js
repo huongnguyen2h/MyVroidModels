@@ -1,3 +1,5 @@
+// import files from 'http://cdn.jsdelivr.net/gh//duyhung2h/MyVroidModels/stream_stuffs/sfx/getAllFiles.js';
+
 let totalMessages = 0,
  messagesLimit = 0,
  channelName,
@@ -12,7 +14,7 @@ let animationIn = 'bounceIn';
 let animationOut = 'bounceOut';
 let borderMessage = '#000000';
 let carimboHora = 'nao';
-let listSfx = ['among_us', 'fart'];
+let listSfx = ['among_us', 'fart', 'anime', 'bonk', 'lmao', 'deus_vult', 'holy'];
 
 window.addEventListener('onEventReceived', function (obj) {
  // Deletar mensagens
@@ -163,6 +165,8 @@ window.addEventListener('onWidgetLoad', function (obj) {
 });
 
 function addMessage(username, message, badges, userId, msgId, color, isAction) {
+//  console.log('files: ', files);
+
  var audio = new Audio(
   'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/aoe2_display_instruction.mp3?raw=true'
  );
@@ -171,12 +175,12 @@ function addMessage(username, message, badges, userId, msgId, color, isAction) {
 
  listSfx.forEach((sfxName) => {
   console.log('first sfxName: ', sfxName);
-  var trimmedSfxName = sfxName
+  var trimmedSfxName = sfxName;
   trimmedSfxName = trimmedSfxName.trim().replace(/[\s—_-]+/g, ' ');
   console.log('trim sfxName: ', trimmedSfxName);
   if (message.includes(trimmedSfxName)) {
    audio = new Audio(
-    'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/' +
+    'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/soundboard' +
      sfxName +
      '.mp3?raw=true'
    );
