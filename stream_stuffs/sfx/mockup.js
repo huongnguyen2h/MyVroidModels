@@ -165,7 +165,7 @@ window.addEventListener('onWidgetLoad', function (obj) {
 });
 
 function addMessage(username, message, badges, userId, msgId, color, isAction) {
-//  console.log('files: ', files);
+ //  console.log('files: ', files);
 
  var audio = new Audio(
   'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/aoe2_display_instruction.mp3?raw=true'
@@ -180,11 +180,12 @@ function addMessage(username, message, badges, userId, msgId, color, isAction) {
   console.log('trim sfxName: ', trimmedSfxName);
   if (message.includes(trimmedSfxName)) {
    audio = new Audio(
-    'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/soundboard' +
+    'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/soundboard/' +
      sfxName +
      '.mp3?raw=true'
    );
    audio.play();
+   return;
   }
  });
 
