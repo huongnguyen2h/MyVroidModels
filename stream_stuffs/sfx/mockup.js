@@ -14,7 +14,7 @@ let animationIn = 'bounceIn';
 let animationOut = 'bounceOut';
 let borderMessage = '#000000';
 let carimboHora = 'nao';
-let listSfx = ['among_us', 'fart', 'anime', 'bonk', 'lmao', 'deus_vult', 'holy'];
+let listSfx = ['among_us', 'fart', 'anime', 'bonk', 'lmao', 'deus_vult', 'holy', 'bruh'];
 
 window.addEventListener('onEventReceived', function (obj) {
  // Deletar mensagens
@@ -172,20 +172,21 @@ function addMessage(username, message, badges, userId, msgId, color, isAction) {
  );
  audio.muted = false;
  audio.play();
+ let continueSfxCheck = true;
 
  listSfx.forEach((sfxName) => {
   console.log('first sfxName: ', sfxName);
   var trimmedSfxName = sfxName;
   trimmedSfxName = trimmedSfxName.trim().replace(/[\s—_-]+/g, ' ');
   console.log('trim sfxName: ', trimmedSfxName);
-  if (message.includes(trimmedSfxName)) {
+  if (message.includes(trimmedSfxName) && continueSfxCheck) {
    audio = new Audio(
     'https://github.com/duyhung2h/MyVroidModels/blob/main/stream_stuffs/sfx/soundboard/' +
      sfxName +
      '.mp3?raw=true'
    );
    audio.play();
-   return;
+   continueSfxCheck = false;
   }
  });
 
