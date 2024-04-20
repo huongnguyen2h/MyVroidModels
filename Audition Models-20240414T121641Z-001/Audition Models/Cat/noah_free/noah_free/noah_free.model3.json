@@ -1,0 +1,56 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "noah_free.moc3",
+		"Textures": [
+			"noah_free.8192/texture_00.png",
+			"noah_free.8192/texture_01.png"
+		],
+		"Physics": "noah_free.physics3.json",
+		"DisplayInfo": "noah_free.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "faqia.exp3.json",
+				"File": "faqia.exp3.json"
+			},
+			{
+				"Name": "gg.exp3.json",
+				"File": "gg.exp3.json"
+			},
+			{
+				"Name": "lh.exp3.json",
+				"File": "lh.exp3.json"
+			},
+			{
+				"Name": "lianhong.exp3.json",
+				"File": "lianhong.exp3.json"
+			},
+			{
+				"Name": "sq.exp3.json",
+				"File": "sq.exp3.json"
+			},
+			{
+				"Name": "xxyan.exp3.json",
+				"File": "xxyan.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}
