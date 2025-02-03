@@ -1,0 +1,515 @@
+newmtl def_surf_mat
+Kd 0.820000 0.830000 0.870000
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Torso
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather14.png
+newmtl Face
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Lips
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Teeth
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Ears
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Legs
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl EyeSocket
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Mouth
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Arms
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Pupils
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl EyeMoisture
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 0.995000
+illum 2
+newmtl Fingernails
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Cornea
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 0.995000
+illum 2
+newmtl Irises
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Sclera
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Toenails
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 0.000000
+d 1.000000
+illum 2
+newmtl Pipe_Outer
+Kd 0.098039 0.098039 0.098039
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather0.png
+newmtl Pipe_Inner
+Kd 0.000000 0.003922 0.007843
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather1.png
+newmtl Rebreather_1
+Kd 0.094118 0.094118 0.094118
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather2.png
+newmtl Harness_Neck
+Kd 0.243137 0.243137 0.243137
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather3.png
+newmtl Corset_1
+Kd 0.674510 0.486275 0.658824
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather4.png
+newmtl Armor_Plate_Shoulder
+Kd 0.600000 0.431373 0.466667
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather5.png
+newmtl Armor_Plate_Shoulder_UP
+Kd 0.694118 0.909804 0.674510
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Harness_Shoulders
+Kd 0.631373 0.474510 0.584314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather6.png
+newmtl Spike
+Kd 0.784314 0.745098 0.603922
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather7.png
+newmtl Fleur
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 99.999992
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather8.png
+newmtl Hard_Border
+Kd 0.831373 0.803922 0.694118
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather9.png
+newmtl Plate_Side
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 1.000000 0.964706
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather10.png
+newmtl Plate_Up_1
+Kd 0.301961 0.231373 0.858824
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather11.png
+newmtl Arms_1
+Kd 0.427451 0.082353 0.082353
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather12.png
+newmtl Border_1
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Belt
+Kd 0.580392 0.419608 0.294118
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather15.png
+newmtl Border-Upper_Armour
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.521569 0.984314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Grenade_1
+Kd 0.035294 0.121569 0.023529
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather19.png
+newmtl Grenade_2
+Kd 0.031373 0.082353 0.035294
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather20.png
+newmtl Skull
+Ka 1.000000 1.000000 1.000000
+Kd 0.835294 1.000000 0.623529
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather21.png
+newmtl Metal_Belt
+Kd 0.325490 0.325490 0.325490
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather22.png
+newmtl Fabric
+Kd 0.356863 0.050980 0.015686
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather23.png
+newmtl Arm_Armor_Lower_A
+Kd 0.513726 0.454902 0.443137
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather25.png
+newmtl Arm_Armor_Lower_B
+Ka 1.000000 1.000000 1.000000
+Kd 0.592157 0.886275 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Arm_Armor_Lower_C
+Kd 0.627451 0.607843 0.160784
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Arm_Armor_Upper_A
+Kd 0.764706 0.729412 0.768627
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather26.png
+newmtl Arm_Armor_Upper_B
+Kd 0.250980 0.611765 0.494118
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Hip_Armor_Plate_A
+Ka 1.000000 1.000000 1.000000
+Kd 0.545098 0.556863 0.984314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather28.png
+newmtl Hip_Armor_Plate_B
+Ka 1.000000 1.000000 1.000000
+Kd 0.792157 0.541176 0.980392
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Hip_Armor_Plate_C
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Upper_Armor_A
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather29.png
+newmtl Leg_Upper_Armor_B
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.752941 0.643137
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Down_Armor_B0
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.835294 0.639216
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather31.png
+newmtl Leg_Down_Armor_B1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.980392 0.611765
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Down_Armor_B2
+Ka 1.000000 1.000000 1.000000
+Kd 0.835294 1.000000 0.623529
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Down_Armor_A0
+Ka 1.000000 1.000000 1.000000
+Kd 0.592157 1.000000 0.650980
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather32.png
+newmtl Leg_Down_Armor_A1
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 1.000000 0.964706
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Down_Armor_A2
+Ka 1.000000 1.000000 1.000000
+Kd 0.525490 0.811765 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Leg_Down_Armor_0B
+Ka 1.000000 1.000000 1.000000
+Kd 0.545098 0.556863 0.984314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather33.png
+newmtl Leg_Down_Armor_0A
+Ka 1.000000 1.000000 1.000000
+Kd 0.792157 0.541176 0.980392
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather34.png
+newmtl Kneepad_Skull
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.521569 0.984314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Kneepad_0
+Kd 0.454902 0.345098 0.380392
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather36.png
+newmtl Kneepad_A2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.627451 0.639216
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather37.png
+newmtl Kneepad_A1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.752941 0.643137
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Inq_Border
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather42.png
+newmtl Inq_Border_Black
+Kd 0.082353 0.082353 0.082353
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather43.png
+newmtl Inq_Red
+Kd 0.960784 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather45.png
+newmtl Hip_Pad_Fdl
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.752941 0.643137
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Hip_Armor_B0
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.835294 0.639216
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather48.png
+newmtl Hip_Armor_B1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.980392 0.611765
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather49.png
+newmtl Hip_Armor_B2
+Ka 1.000000 1.000000 1.000000
+Kd 0.835294 1.000000 0.623529
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl FdL_Shoulder
+Kd 0.647059 0.584314 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather51.png
+newmtl Shoulder_Border_0
+Kd 0.807843 0.796078 0.780392
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather52.png
+newmtl Shoulder_Border_B
+Ka 1.000000 1.000000 1.000000
+Kd 0.545098 0.556863 0.984314
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Shoulder_Border_a
+Kd 0.820000 0.830000 0.870000
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl Metal_Generic
+Kd 0.372549 0.360784 0.447059
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd F:\3D\OBJ\Project_SOB\hxntmp_SoB_Rebreather\SoB_Rebreather53.png
